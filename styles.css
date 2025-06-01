@@ -13,7 +13,7 @@ body{
     color:white;
     background: linear-gradient(to right, #1D2B64 0%, #F8CDDA  51%, #1D2B64 100%);
     background-size:200%;
-    animation: bgGradient 1s ease infinite;
+    animation: bgGradient 1.5s ease infinite;
 }
 .container{
     position:absolute;
