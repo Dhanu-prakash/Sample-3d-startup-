@@ -19,6 +19,7 @@ body{
     position:absolute;
     background-color: black;
     inset:3px;
+    border-radius:14px;
     
 }
 
